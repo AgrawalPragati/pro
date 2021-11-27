@@ -1,4 +1,3 @@
-//hi//
 #include<stdio.h>
 #include<stdio.h>
 int minlen(int *arr,int n)
